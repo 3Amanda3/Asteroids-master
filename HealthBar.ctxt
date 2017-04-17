@@ -1,0 +1,43 @@
+#BlueJ class context
+comment0.target=HealthBar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HealthBar\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ HealthBar\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment10.params=m
+comment10.target=void\ setMax(int)
+comment10.text=\r\n\ setMax\ will\ set\ max\ \=\ m\r\n\ @Param\ is\ the\ integer\ m\r\n\ @Return\ nothing\ is\ returned\r\n
+comment11.params=
+comment11.target=int\ getMax()
+comment11.text=\r\n\ getMax\ will\ return\ the\ max\r\n\ @Param\ there\ are\ no\ parameters\r\n\ @Return\ max\ gets\ returned\r\n
+comment12.params=
+comment12.target=int\ getCurrent()
+comment12.text=\r\n\ getCurrent\ will\ return\ the\ current\ \r\n\ @Param\ there\ are\ no\ parameters\r\n\ @Return\ current\ gets\ returned\r\n
+comment13.params=
+comment13.target=void\ checkLost()
+comment13.text=\r\n\ checkLost\ will\ check\ to\ see\ if\ current\ is\ less\ than\ 0\ and\ display\ a\ message\ and\ stop\ the\ \r\n\ program\r\n\ @Param\ there\ are\ no\ parameters\r\n\ @Return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=HealthBar()
+comment2.text=\r\n\ HealthBar\ will\ make\ the\ frame\ and\ set\ the\ colours\ and\ variables\ to\ there\ abreations\r\n\ @Param\ there\ are\ no\ parameters\r\n\ @Return\ nothing\ is\ returned\r\n
+comment3.params=c\ m\ s
+comment3.target=HealthBar(int,\ int,\ int)
+comment3.text=\r\n\ HealthBar\ will\ make\ the\ frame\ and\ set\ the\ colours\ and\ variables\ to\ there\ abreations\r\n\ @Param\ is\ the\ integer\ m,\ c,\ s\r\n\ @Return\ nothing\ is\ returned\r\n
+comment4.params=c\ m\ s\ g\ w\ d
+comment4.target=void\ HealthBar(int,\ int,\ int,\ java.awt.Color,\ java.awt.Color,\ java.awt.Color)
+comment4.text=\r\n\ HealthBar\ will\ make\ the\ frame\ and\ set\ all\ the\ colour\ and\ varaibles\ nad\ update\ the\ bar\r\n\ @Param\ is\ the\ integers\ m,\ c,\ and\ s\ and\ the\ Colors\ g,\ w,\ and\ d.\r\n\ @Return\ nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ updateBar()
+comment5.text=\r\n\ updateBar\ will\ set\ the\ colour\ of\ health\ bar\ acording\ to\ the\ amount\ current\ is\ at\ and\ it\ will\r\n\ put\ text\ on\ the\ healthBar\r\n\ @Param\ there\ are\ no\ parameters\r\n\ @Return\ nothing\ is\ returned\r\n
+comment6.params=change
+comment6.target=void\ add(int)
+comment6.text=\r\n\ add\ will\ make\ target\ \=\ to\ target\ added\ to\ current\ and\ check\ to\ see\ if\ its\ at\ the\ max\ or\ min\r\n\ so\ it\ changes\ the\ score\r\n\ @Param\ is\ the\ integer\ change\r\n\ @Return\ nothing\ is\ returned\r\n
+comment7.params=t
+comment7.target=void\ setTarget(int)
+comment7.text=\r\n\ setTarget\ will\ set\ target\ \=\ t\r\n\ @Param\ is\ the\ integer\ t\r\n\ @Return\ nothing\ is\ returned\r\n
+comment8.params=c
+comment8.target=void\ setCurrent(int)
+comment8.text=\r\n\ setCurrent\ will\ set\ current\ \=\ c\r\n\ @Param\ is\ the\ integer\ c\r\n\ @Return\ nothing\ is\ returned\r\n
+comment9.params=s
+comment9.target=void\ setSpeed(int)
+comment9.text=\r\n\ setSpeed\ will\ set\ speed\ \=\ s\r\n\ @Param\ is\ the\ integer\ s\r\n\ @Return\ nothing\ is\ returned\r\n
+numComments=14

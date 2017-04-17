@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Space.\ Something\ for\ rockets\ to\ fly\ in.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Space()
+comment1.text=\r\n\ Create\ the\ space\ and\ all\ objects\ within\ it.\r\n
+comment2.params=count
+comment2.target=void\ addAsteroids(int)
+comment2.text=\r\n\ Add\ a\ given\ number\ of\ asteroids\ to\ our\ world.\ Asteroids\ are\ only\ added\ into\r\n\ the\ left\ half\ of\ the\ world.\r\n
+comment3.params=
+comment3.target=void\ gameOver()
+comment3.text=\r\n\ This\ method\ is\ called\ when\ the\ game\ is\ over\ to\ display\ the\ final\ score.\r\n
+comment4.params=count
+comment4.target=void\ paintStar(int)
+comment4.text=\r\n\ paintStar\ will\ add\ stars\ to\ the\ background\ of\ the\ world\ with\ rsandom\ x\ and\ y\ and\r\n\ different\ transparencys\r\n@param\ count\ is\ a\ number\ of\ stars\ that\ will\ create\r\n@return\ nothing\ is\ returned\r\n
+comment5.params=score
+comment5.target=void\ countScore(int)
+comment5.text=\r\n\ countScore\ will\ add\ points\ to\ the\ scoreCounter\r\n\ @param\ score\ is\ a\ number\ that\ will\ be\ added\ to\ the\ score\ counter\r\n\ @return\ nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=7
